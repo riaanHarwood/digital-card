@@ -5,11 +5,10 @@ I developed this project as my first React application project to practice my sk
 <br>
 
 🚀 **Project Overview**
-<br>
 This is a Next.js 16 React application built with TypeScript and Tailwind CSS that creates an interactive flashcard learning system. The app allows users to cycle through flashcards, flip them to reveal answers, and toggle between light/dark themes.
 
 
-
+<br>
 
 ✨ **Features**
 
@@ -23,7 +22,7 @@ Component-based architecture
 
 Responsive and modern UI
 
-
+<br>
 
 🛠️ **Tech Stack**
 
@@ -35,13 +34,13 @@ Icons: **Google Fonts (Material Symbols)**
 
 Language: **JavaScript (React JSX)**
 
-
+<br>
 
 📁 **Project Structure**
 
 <img width="367" alt="Screenshot 2025-06-09 at 11 14 09 AM" src="https://github.com/user-attachments/assets/e073e37b-bd74-4077-a021-d6dfe21d53da" />
 
-
+<br>
 
 🧑‍💻 **How to Run Locally**
 
@@ -65,7 +64,7 @@ Copy
 Edit
 npm start
 
-
+<br>
 
 **Please Note:**
 This is my first project using React, created to understand component composition and JSX syntax. I'm continuously improving and iterating on the design and code quality as I learn more about React best practices.
