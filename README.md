@@ -1,12 +1,13 @@
 # Digital-Card 
 I developed this project as my first React application project to practice my skills and deepen my understanding of the React library. The project is a simple, elegant card-style layout built using React. This project showcases personal or professional information of the user through a clean user-friendly interface. As my first React project, it showcases foundational knowledge of the React library, including component-based architecture, styling, and responsive design principles.
 
-
-
+<br>
+<br>
 
 🚀 **Project Overview**
+<br>
+This is a Next.js 16 React application built with TypeScript and Tailwind CSS that creates an interactive flashcard learning system. The app allows users to cycle through flashcards, flip them to reveal answers, and toggle between light/dark themes.
 
-The digital-Card is a single-page application (SPA) that provides visual information in the form of a card, using React and CSS. It's designed to be lightweight and responsive, ideal for digital business cards or profile previews.
 
 
 
