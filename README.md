@@ -48,9 +48,9 @@ Responsive and modern UI
 <br>
 
 3. Core Dependencies
-React 19: UI library with hooks
-Framer Motion: Animation library for smooth transitions
-next-themes: Theme management for light/dark mode
+* React 19: UI library with hooks
+* Framer Motion: Animation library for smooth transitions
+* next-themes: Theme management for light/dark mode
 
 <img width="367" alt="Screenshot 2025-06-09 at 11 14 09 AM" src="https://github.com/user-attachments/assets/e073e37b-bd74-4077-a021-d6dfe21d53da" />
 
