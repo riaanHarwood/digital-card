@@ -40,10 +40,10 @@ Responsive and modern UI
 📁 **Project Structure & architecture**
 
 1. Framework & Build System
-Next.js 16: React framework with App Router
-TypeScript: Type safety throughout the application
-Tailwind CSS v4: Utility-first CSS framework with dark mode support
-ESLint: Code linting and formatting
+* Next.js 16: React framework with App Router
+* TypeScript: Type safety throughout the application
+* Tailwind CSS v4: Utility-first CSS framework with dark mode support
+* ESLint: Code linting and formatting
 
 <br>
 
