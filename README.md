@@ -27,13 +27,13 @@ Responsive and modern UI
 
 🛠️ **Tech Stack**
 
-Frontend Framework: **React.js**
++ Frontend Framework: **React.js**
 
-Styling: **CSS (vanilla)**
++ Styling: **CSS (vanilla)**
 
-Icons: **Google Fonts (Material Symbols)**
++ Icons: **Google Fonts (Material Symbols)**
 
-Language: **JavaScript (React JSX)**
++ Language: **JavaScript (React JSX)**
 
 <br>
 
