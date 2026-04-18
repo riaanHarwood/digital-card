@@ -52,7 +52,27 @@ Responsive and modern UI
 * Framer Motion: Animation library for smooth transitions
 * next-themes: Theme management for light/dark mode
 
-<img width="367" alt="Screenshot 2025-06-09 at 11 14 09 AM" src="https://github.com/user-attachments/assets/e073e37b-bd74-4077-a021-d6dfe21d53da" />
+```
+flashcard/
+├── app/                    # Next.js App Router
+│   ├── layout.tsx         # Root layout with providers
+│   ├── page.tsx           # Home page
+│   └── globals.css        # Global styles + theme variables
+├── components/            # React components
+│   ├── providers.tsx      # Theme provider wrapper
+│   ├── ui/               # UI components
+│   │   └── Navbar.tsx    # Header with menu
+│   └── flashcard/        # Flashcard-specific components
+│       ├── Flashcard.tsx
+│       └── FlashcardContainer.tsx
+├── data/                 # Static data
+│   └── flashcards.ts
+├── hooks/               # Custom React hooks
+│   └── useFlashcards.ts
+├── types/               # TypeScript definitions
+│   └── flashcard.ts
+└── package.json         # Dependencies & scripts
+```
 
 <br>
 <br>
