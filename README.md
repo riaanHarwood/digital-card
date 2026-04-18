@@ -37,10 +37,24 @@ Responsive and modern UI
 
 <br>
 
-📁 **Project Structure**
+📁 **Project Structure & architecture**
+
+1. Framework & Build System
+Next.js 16: React framework with App Router
+TypeScript: Type safety throughout the application
+Tailwind CSS v4: Utility-first CSS framework with dark mode support
+ESLint: Code linting and formatting
+
+<br>
+
+3. Core Dependencies
+React 19: UI library with hooks
+Framer Motion: Animation library for smooth transitions
+next-themes: Theme management for light/dark mode
 
 <img width="367" alt="Screenshot 2025-06-09 at 11 14 09 AM" src="https://github.com/user-attachments/assets/e073e37b-bd74-4077-a021-d6dfe21d53da" />
 
+<br>
 <br>
 
 🧑‍💻 **How to Run Locally**
